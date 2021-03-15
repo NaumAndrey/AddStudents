@@ -1,0 +1,21 @@
+Naumov Naumov Naumov
+male
+323
+4
+4.8
+day
+8000
+Linda
+female
+324
+2
+4
+night
+7000
+Vik
+Male
+324
+2
+23455
+night
+7000
