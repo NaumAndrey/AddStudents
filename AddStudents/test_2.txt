@@ -2,48 +2,20 @@ Naumov Naumov Naumov
 male
 323
 4
-4 4 4 5 3 5 3 4 
+4.8
 day
 8000
 Linda
 female
 324
 2
-4 4 4 5 3 5 3 4 
-night
-7000
-Alex
-female
-324
-2
-4 4 4 5 4 5 3 5  
-night
-7000
-Saha
-male
-324
-2
-3 3 3 5 4 5 3 5 
-night
-7000
-Katya
-female
-323
-2
-3 3 3 3 3 4 3 5  
-night
-7000
-Evgeniy
-male
-223
-2
-4 4 4 4 5 5 5 5 
-day
-7000
-test
-male
-1234
 4
-4 4 4 4 4 4 4 4 
-day
+night
+7000
+Vik
+Male
+324
+2
+23455
+night
 7000
